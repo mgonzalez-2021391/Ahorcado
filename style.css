@@ -1,4 +1,9 @@
 button{
     text-align: center;
     background-color: coral;
+    align-items: center;
+}
+
+body{
+    background-color: darkgray;
 }
