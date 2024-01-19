@@ -8,5 +8,5 @@ function palabras() {
 palabras();
 
 function presionarBoton(){
-
+    
 }
